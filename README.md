@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Prashansa-01/dsa27/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Prashansa-01/dsa27/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Prashansa-01/dsa27/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prashansa-01/dsa27/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Prashansa-01/dsa27/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Prashansa-01/dsa27/tree/master/0283-move-zeroes) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prashansa-01/dsa27/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Prashansa-01/dsa27/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prashansa-01/dsa27/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prashansa-01/dsa27/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Prashansa-01/dsa27/tree/master/0268-missing-number) |
 ## Recursion
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Prashansa-01/dsa27/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Prashansa-01/dsa27/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Prashansa-01/dsa27/tree/master/0191-number-of-1-bits) |
 ## Simulation
@@ -76,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Prashansa-01/dsa27/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Prashansa-01/dsa27/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
