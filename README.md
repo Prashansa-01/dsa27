@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Prashansa-01/dsa27/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prashansa-01/dsa27/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prashansa-01/dsa27/tree/master/0326-power-of-three) |
 ## Divide and Conquer
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prashansa-01/dsa27/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Prashansa-01/dsa27/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
